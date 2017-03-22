@@ -1,0 +1,12 @@
+apple,10
+apple,ad,10,asd,5 
+apple,3,5,4,1
+melon,a,v,MUL,u
+apple
+apple
+apple
+apple
+apple
+apple
+apple
+apple
